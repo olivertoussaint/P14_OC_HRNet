@@ -1,4 +1,5 @@
 # HRnet Project in React
+![HRnet logo](./public/logo.png)
 
 ## Description
 
